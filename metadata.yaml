@@ -1,0 +1,36 @@
+_repo: Increasing-Personal-Efficiency_36898
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36898-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Conwell, Russell H.
+    alias: Conwell, Russell Herman
+    birthdate: 1843
+    deathdate: 1925
+    gutenberg_agent_id: '203'
+    url: http://www.gutenberg.org/2009/agents/203
+    wikipedia: http://en.wikipedia.org/wiki/Russell_Conwell
+description: Famed Baptist minister Russell Conwell knew a thing or two about personal
+  efficiency. During his career, he worked as a soldier, a church leader, a lawyer,
+  a journalist, a biographer, and a bestselling self-help author. He also managed
+  to find time to found and preside over Temple University. In this tip-filled volume,
+  Conwell provides actionable advice to help you make the most of your allotted 24
+  hours.
+gutenberg_issued: '2011-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36898'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Self-culture'
+- !lcc 'LC'
+- !lcsh 'Psychology, Applied'
+tableOfContents: Women -- Musical culture -- Oratory -- Self help -- Some advice to
+  young men.
+title: Increasing Personal Efficiency
+url: http://www.gutenberg.org/ebooks/36898
